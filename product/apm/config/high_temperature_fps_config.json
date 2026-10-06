@@ -1,0 +1,137 @@
+{
+  "enable": true,
+  "version": 1,
+  "updateDate": "20240314",
+  "FpsConfig": [
+    {
+      "packageName": "org.telegram.messenger.web",
+      "activitiesFps": [
+        {
+          "activity": "CameraCommon",
+          "fpsSetting": [0,30,50,25,60,20]
+        }
+      ]
+    },
+    {
+      "packageName": "org.telegram.messenger",
+      "activitiesFps": [
+        {
+          "activity": "CameraCommon",
+          "fpsSetting": [0,30,50,25,60,20]
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.mobileqq",
+      "activitiesFps": [
+        {
+          "activity": "CameraCommon",
+          "fpsSetting": [0,30,50,25,60,20]
+        }
+      ]
+    },
+    {
+      "packageName": "sg.bigo.live",
+      "activitiesFps": [
+        {
+          "activity": "VideoCommon",
+          "fpsSetting": [0,45,45,35,50,30]
+        }
+      ]
+    },
+    {
+      "packageName": "www.youku.phone",
+      "activitiesFps": [
+        {
+          "activity": "VideoCommon",
+          "fpsSetting": [0,45,45,35,50,30]
+        }
+      ]
+    },
+    {
+      "packageName": "video.like",
+      "activitiesFps": [
+        {
+          "activity": "VideoCommon",
+          "fpsSetting": [0,50,45,35,50,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.zhiliaoapp.musically",
+      "activitiesFps": [
+        {
+          "activity": "ShortVideoCommon",
+          "fpsSetting": [0,50,48,35,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.ss.android.ugc.trill",
+      "activitiesFps": [
+        {
+          "activity": "ShortVideoCommon",
+          "fpsSetting": [0,50,48,35,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.zhiliaoapp.musically.go",
+      "activitiesFps": [
+        {
+          "activity": "ShortVideoCommon",
+          "fpsSetting": [0,50,48,35,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.ss.android.ugc.aweme",
+      "activitiesFps": [
+        {
+          "activity": "ShortVideoCommon",
+          "fpsSetting": [0,50,48,35,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.ss.android.ugc.aweme.lite",
+      "activitiesFps": [
+        {
+          "activity": "ShortVideoCommon",
+          "fpsSetting": [0,50,48,35,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "us.zoom.videomeetings",
+      "activitiesFps": [
+        {
+          "activity": "com.zipow.videobox.conference.ui.ZmConfActivity",
+          "fpsSetting": [0,20,55,20,60,20]
+        },
+        {
+          "activity": "com.zipow.videobox.conference.ui.ZmFoldableConfActivity",
+          "fpsSetting": [0,20,55,20,60,20]
+        }
+      ]
+    },
+    {
+      "packageName": "tv.danmaku.bili",
+      "activitiesFps": [
+        {
+          "activity": "com.bilibili.bililive.room.ui.roomv3.LiveRoomActivityV3",
+          "fpsSetting": [40,45,46,30,55,30]
+        }
+      ]
+    },
+    {
+      "packageName": "com.android.vending",
+      "activitiesFps": [
+        {
+          "activity": "com.android.vending.AssetBrowserActivity",
+          "fpsSetting": [45,35,48,30,55,30]
+        }
+      ]
+    }
+    ]
+}

@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Infinix
+ro.product.system_ext.device=Infinix-X6880
+ro.product.system_ext.manufacturer=INFINIX
+ro.product.system_ext.model=Infinix X6880
+ro.product.system_ext.name=X6880-OP
+ro.system_ext.build.date=Thu Jan 15 09:27:18 CST 2026
+ro.system_ext.build.date.utc=1768440438
+ro.system_ext.build.fingerprint=Infinix/X6880-OP/Infinix-X6880:15/AP3A.240905.015.A2/145011:user/release-keys
+ro.system_ext.build.id=AP3A.240905.015.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=145011
+ro.system_ext.build.version.release=15
+ro.system_ext.build.version.release_or_codename=15
+ro.system_ext.build.version.sdk=35
+ro.custom.camera.rear.setting=50M+2M
+ro.custom.camera.front.setting=13M
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
